@@ -1,6 +1,7 @@
 services:
   web:
     build: .
+    image: matildevaleruz/llm_agent
     ports:
       - "8000:8000"
     env_file:
