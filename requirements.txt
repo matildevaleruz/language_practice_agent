@@ -1,0 +1,9 @@
+Flask
+langchain
+langchain-core
+langchain-openai
+requests
+gunicorn
+pytest
+python-dotenv
+psycopg2-binary
