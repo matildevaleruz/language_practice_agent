@@ -44,7 +44,7 @@ The JSON object must contain four keys: "corrections", "strengths", "weaknesses"
 - "strengths", "weaknesses", and "recommendations" should be lists of strings.
 
 Guidelines for feedback:
-1. Corrections: List only the most important errors. Do not correct every missing punctuation unless it affects meaning. Focus on errors in vocabulary, grammar, and sentence structure.
+1. Corrections: List only the most important errors. Do not correct every missing punctuation or capitalization unless it affects meaning. Focus on errors in vocabulary, grammar, and sentence structure.
 2. Strengths: Mention 2-3 things the user did well, such as using new vocabulary, correct grammar structures, or natural expressions.
 3. Weaknesses: Point out 2-3 areas for improvement, focusing on recurring errors or important aspects for their level. Be constructive and encouraging.
 4. Recommendations: Provide 2-3 specific, actionable recommendations for improvement. Avoid vague advice.
